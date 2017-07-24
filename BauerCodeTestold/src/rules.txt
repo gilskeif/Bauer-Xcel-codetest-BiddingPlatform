@@ -1,0 +1,26 @@
+Each bidder can bid only once for each item.
+All bidders bid the starting bid unless other rules come into effect.
+All bidders stop bidding when they have insufficient funds to bid.
+The bidder with the highest bid wins the item.
+If a bidder wins an item, the bidder's starting balance should be decreased by the amount of the bid.
+If a bidder does not win an item, the bidder's balance is not decreased.
+If more than one rule would multiply a bidders bid, multiply the starting bid by the multiplier in each applicable rule. 
+If a rule dictates that a bidder will bid a maximum amount, that amount cannot be exceded even if other rules would produce a total over that amount.
+Bidding 0 dollars is the equivalent of not bidding. 
+
+Bob Briskey: 
+- will bid double for paintings where the subject is horses.
+- will bid double for paintings that are larger or equal to 625 square inches.
+
+Amanda Wu:
+- will never bid more than $100,000 for any item.
+- will bid 1.5 times for paintings where the subject is Mrs Frisby.
+- will bid 1.5 times for paintings where the subject is nature.
+
+Sue Perkins:
+- will only bid for paintings smaller than 625 square inches. 
+- will bid double for paintings smaller than 625 square inches. 
+
+Donald von Neuman: 
+- will not bid for paintings with a subject of tomatoes.
+- will bid triple for paintings by Shelley Adler.
