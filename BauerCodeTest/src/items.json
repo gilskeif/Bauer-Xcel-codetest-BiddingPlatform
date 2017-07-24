@@ -1,0 +1,44 @@
+{
+	"items": [
+		{
+			"title": "Horses horses horses",
+			"type": "painting",
+			"subject": "horses",
+			"startingBid": "$25,000",
+			"size": "200 x 180 in",
+			"artist": "Joe Smith"
+		},
+		{
+			"title": "Mrs Frisby",
+			"type": "painting",
+			"subject": "Mrs Frisby",
+			"startingBid": "$3,000",
+			"size": "31 x 25 in",
+			"artist": "Shelley Adler"
+		},
+		{
+			"title": "Tomato Organizers",
+			"type": "painting",
+			"subject": "tomatoes",
+			"startingBid": "$150,000",
+			"size": "120 x 180 in",
+			"artist": "Christopher Boffoli"
+		},
+		{
+			"title": "The principles of nature",
+			"type": "painting",
+			"subject": "nature",
+			"startingBid": "$50,000",
+			"size": "23 x 15 in",
+			"artist": "Jaehyo Lee"
+		},
+		{
+			"title": "The Sweet Life",
+			"type": "painting",
+			"subject": "lollipops",
+			"startingBid": "$100,000",
+			"size": "18 x 12 in",
+			"artist": "Elena Bulatova"
+		}
+	]
+}

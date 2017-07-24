@@ -1,0 +1,20 @@
+{
+	"bidders": [
+		{
+			"name": "Bob Briskey",
+			"money": "$250,000"
+		},
+		{
+			"name": "Sue Perkins",
+			"money": "$500,000"
+		},
+		{
+			"name": "Donald von Neuman",
+			"money": "$20,000"
+		},
+		{
+			"name": "Amanda Wu",
+			"money": "$200,000"
+		}
+	]
+}
